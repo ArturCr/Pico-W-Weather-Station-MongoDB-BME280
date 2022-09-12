@@ -11,8 +11,8 @@ Small Pico W based weather station written with micropython using the BME280 sen
     <li><a href="#configure-pico-w-with-micropython">Configure Pico W with micropython</a></li>
     <li><a href="#hardware">Hardware</a></li>
     <li><a href="#code">Code</a></li>  
-    <li><a href="#modify-secrets.py">Modify secrets.py</a></li>
-    <li><a href="#success(debug)">Success(Debug)</a></li>
+    <li><a href="#modify-secretspy">Modify secrets.py</a></li>
+    <li><a href="#success-or-likely-debugging"> Success (or likely debugging 😅)</a></li>
   </ol>
 
 
@@ -33,7 +33,7 @@ Small Pico W based weather station written with micropython using the BME280 sen
 ## Modify secrets.py
 ...
 
-## Success(Debug)
+##  Success (or likely debugging 😅)
 ...
 
 Getting Started:
@@ -43,7 +43,7 @@ Getting Started:
 3. Build your hardware
 4. Add the github files to the pico
 5. Modify the secrets.py to add the relavant data
-6. Success (or most likely debug 😅)
+6. Success (or most likely debugging 😅)
 
 Roadmap:
 ...
