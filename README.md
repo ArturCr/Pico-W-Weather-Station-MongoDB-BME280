@@ -12,7 +12,7 @@ Small Pico W based weather station written with micropython using the BME280 sen
     <li><a href="#hardware">Hardware</a></li>
     <li><a href="#code">Code</a></li>  
     <li><a href="#modify-secretspy">Modify secrets.py</a></li>
-    <li><a href="#success-or-likely-debugging"> Success (or likely debugging 😅)</a></li>
+    <li><a href="#success-or-likely-debugging-"> Success (or likely debugging 😅)</a></li>
   </ol>
 
 
