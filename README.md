@@ -1,9 +1,45 @@
 # Pico-W-Weather-Station-MongoDB-BME280
 Small Pico W based weather station written with micropython using the BME280 sensor for data collection and storing the data collected on a MongoDB database
 
+<!-- Logo Here? -->
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+  <ol>
+    <li><a href="#setup-mongodb">Setup MongoDB</a></li>
+    <li><a href="#configure-pico-w-with-micropython">Configure Pico W with micropython</a></li>
+    <li><a href="#hardware">Hardware</a></li>
+    <li><a href="#code">Code</a></li>  
+    <li><a href="#modify-secrets.py">Modify secrets.py</a></li>
+    <li><a href="#success(debug)">Success(Debug)</a></li>
+  </ol>
+
+
+<!-- MAIN CONTENTS -->
+
+## Setup-mongodb
+...
+
+## Configure Pico W with micropython
+...
+
+## Hardware
+...
+
+## Code
+...
+
+## Modify secrets.py
+...
+
+## Success(Debug)
+...
+
 Getting Started:
-1. Setup MongoDB instance (There is a Free tier available<a href="https://www.mongodb.com/pricing?utm_source=google&utm_campaign=gs_emea_portugal_search_core_brand_atlas_desktop&utm_term=mongo%20atlas%20free%20tier&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624551&adgroup=115749716583&gclid=EAIaIQobChMImuv2ueSP-gIVKo9oCR2vuQqAEAAYASABEgJBLvD_BwE">)
-2. Configure the Pico W with micropython (https://projects.raspberrypi.org/en/projects/get-started-pico-w/1)
+
+1. Setup MongoDB (<a href="https://www.mongodb.com/pricing?utm_source=google&utm_campaign=gs_emea_portugal_search_core_brand_atlas_desktop&utm_term=mongo%20atlas%20free%20tier&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624551&adgroup=115749716583&gclid=EAIaIQobChMImuv2ueSP-gIVKo9oCR2vuQqAEAAYASABEgJBLvD_BwE">There is a Free tier available</a>)
+2. Configure the Pico W with micropython (<a href="https://projects.raspberrypi.org/en/projects/get-started-pico-w/1"> Raspberry Pi Foundation</a>)
 3. Build your hardware
 4. Add the github files to the pico
 5. Modify the secrets.py to add the relavant data
