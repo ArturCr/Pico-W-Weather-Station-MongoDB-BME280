@@ -17,18 +17,33 @@ Small Pico W based weather station written with micropython using the BME280 sen
 
 
 <!-- MAIN CONTENTS -->
-## Setup-mongodb
-<img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB logo" class="css-1po24pn">
+## Setup MongoDB
+Setup database:
+* <a href="https://www.mongodb.com/cloud/atlas/register">
+  Go to Mongodb Register/Sign in to 
+  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="mongodb.com" width="80" height="18"      style="vertical-align:middle"> 
+  </a>
+  
+* Create a project
+* Inside the project create a Cluster (**The Shared Cluster is Free without term limits and does not require a credit card 💳**)
+* Inside the cluster create a database
+* and Inside the database create collection
+  - (This video by Patrick does the previous steps well from min 7 to 12 https://youtu.be/qWYx5neOh2s?t=440) 
+  <br />
+  
+Setup API:
+* Then go to the Api Section  
+![Mongodb_DataAPI]
+* Enable it, making sure the cluster is set to "Read and Write" and get a copy of the "URL Endpoint" for later
+* Finally click on "Create API Key" and safe it somewhere safe
 
-* [![Mongodb][Mongodb.com]][Mongodb-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Next][Next.js]][Next-url]
 
 ## Configure Pico W with micropython
-...
+A great resource for this can be found at the <a href="https://www.raspberrypi.com/documentation/microcontrollers/micropython.html"> Raspberry Pi</a>
+If this is your first project make sure to get [Thonny](https://thonny.org/) to interface with the pico
 
 ## Hardware
-...
+![squematic]
 
 ## Code
 ...
@@ -39,14 +54,9 @@ Small Pico W based weather station written with micropython using the BME280 sen
 ##  Success (or likely debugging 😅)
 ...
 
-Getting Started:
 
-1. Setup MongoDB (<a href="https://www.mongodb.com/pricing?utm_source=google&utm_campaign=gs_emea_portugal_search_core_brand_atlas_desktop&utm_term=mongo%20atlas%20free%20tier&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624551&adgroup=115749716583&gclid=EAIaIQobChMImuv2ueSP-gIVKo9oCR2vuQqAEAAYASABEgJBLvD_BwE">There is a Free tier available</a>)
-2. Configure the Pico W with micropython (<a href="https://projects.raspberrypi.org/en/projects/get-started-pico-w/1"> Raspberry Pi Foundation</a>)
-3. Build your hardware
-4. Add the github files to the pico
-5. Modify the secrets.py to add the relavant data
-6. Success (or most likely debugging 😅)
+
+
 
 Roadmap:
 ...
