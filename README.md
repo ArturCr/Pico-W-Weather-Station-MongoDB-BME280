@@ -56,7 +56,7 @@ Open the secret.py file and replace the placeholder data with your Wi-Fi and Dat
 <br />
 
 ##  Success (or likely debugging 😅)
-By now the system should be working but there is a chace something is wrong. If so please feel free to raise an issue and I wish you the best of luck debugging and hacking the server to do more
+By now the system should be working but there is a chace something is wrong. If so please feel free to raise an issue and I wish you the best of luck debugging and hacking the system to do more
 <br />
 
 ## Roadmap:
