@@ -53,6 +53,18 @@ If this is your first project make sure to get [Thonny](https://thonny.org/) to 
 
 ## Modify secrets.py
 Open the secret.py file and replace the placeholder data with your Wi-Fi and Database data
+You must chage all the options that Start with **YOUR_...** and are free to change the others
+ssid - Is the name of the WiFi
+pw - The WiFi password (leave blank if there is no password)
+country - Used to configure the Pico W to use the correct channels for your region (optional but almost obligatory in some regions)
+This is set using a [2 Character Country Code(Alpha-2 code)](https://www.iban.com/country-codes) eg.'IT','US','UK','PT'
+    'api-key': 'Your_API_Key',
+    'url-endpoint': 'Your_URL_Endpoint',
+    'cluster': 'Your_Cluster',
+    'database': 'Your_Database',
+    'collection': 'Your_Colllection',
+station-name -  
+
 <br />
 
 ##  Success (or likely debugging 😅)
