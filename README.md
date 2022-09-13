@@ -20,7 +20,7 @@ Small Pico W based weather station written with micropython using the BME280 sen
 ## Setup MongoDB
 Setup database:
 * <a href="https://www.mongodb.com/cloud/atlas/register">
-  Go to Mongodb Register/Sign in to 
+  Register/Sign in to 
   <img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="mongodb.com" width="80" height="18"      style="vertical-align:middle"> 
   </a>
   
