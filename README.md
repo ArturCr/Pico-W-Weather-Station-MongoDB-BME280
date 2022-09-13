@@ -17,9 +17,12 @@ Small Pico W based weather station written with micropython using the BME280 sen
 
 
 <!-- MAIN CONTENTS -->
-
 ## Setup-mongodb
-...
+<img src="https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress" alt="MongoDB logo" class="css-1po24pn">
+
+* [![Mongodb][Mongodb.com]][Mongodb-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Next][Next.js]][Next-url]
 
 ## Configure Pico W with micropython
 ...
